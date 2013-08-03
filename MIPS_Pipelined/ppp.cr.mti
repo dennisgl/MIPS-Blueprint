@@ -1,0 +1,99 @@
+D:/mips_single/tb_SingleCycle.v {1 {vlog -work work D:/mips_single/tb_SingleCycle.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module tb_SingleCycle
+
+Top level modules:
+	tb_SingleCycle
+
+} {} {}} D:/mips_single/alu.v {1 {vlog -work work D:/mips_single/alu.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/mips_single/control_single.v {1 {vlog -work work D:/mips_single/control_single.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module control_single
+
+Top level modules:
+	control_single
+
+} {} {}} D:/mips_single/mips_single.v {1 {vlog -work work D:/mips_single/mips_single.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module mips_single
+
+Top level modules:
+	mips_single
+
+} {} {}} D:/mips_single/FullAdder.v {1 {vlog -work work D:/mips_single/FullAdder.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+
+} {} {}} D:/mips_single/reg32.v {1 {vlog -work work D:/mips_single/reg32.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module reg32
+
+Top level modules:
+	reg32
+
+} {} {}} D:/mips_single/mux2.v {1 {vlog -work work D:/mips_single/mux2.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} D:/mips_single/reg_file.v {1 {vlog -work work D:/mips_single/reg_file.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} D:/mips_single/add32.v {1 {vlog -work work D:/mips_single/add32.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} D:/mips_single/Mux5.v {1 {vlog -work work D:/mips_single/Mux5.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module Mux5
+
+Top level modules:
+	Mux5
+
+} {} {}} D:/mips_single/ALUbit.v {1 {vlog -work work D:/mips_single/ALUbit.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module ALUbit
+
+Top level modules:
+	ALUbit
+
+} {} {}} D:/mips_single/memory.v {1 {vlog -work work D:/mips_single/memory.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} {D:/mips_single/sign extend.v} {1 {vlog -work work {D:/mips_single/sign extend.v}
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} D:/mips_single/alu_ctl.v {1 {vlog -work work D:/mips_single/alu_ctl.v
+Model Technology ModelSim SE vlog 5.7d Compiler 2003.05 May 10 2003
+-- Compiling module alu_ctl
+
+Top level modules:
+	alu_ctl
+
+} {} {}}

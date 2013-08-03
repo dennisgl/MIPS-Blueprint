@@ -1,0 +1,47 @@
+library verilog;
+use verilog.vl_types.all;
+entity id_ex is
+    port(
+        clk             : in     vl_logic;
+        rst             : in     vl_logic;
+        en_reg          : in     vl_logic;
+        add32_tin       : in     vl_logic_vector(31 downto 0);
+        add32_tout      : out    vl_logic_vector(31 downto 0);
+        rfrd_out1       : out    vl_logic_vector(31 downto 0);
+        rfrd_out2       : out    vl_logic_vector(31 downto 0);
+        rfrd_in1        : in     vl_logic_vector(31 downto 0);
+        rfrd_in2        : in     vl_logic_vector(31 downto 0);
+        extnd_out       : out    vl_logic_vector(31 downto 0);
+        extnd_in        : in     vl_logic_vector(31 downto 0);
+        rt_in           : in     vl_logic_vector(4 downto 0);
+        rd_in           : in     vl_logic_vector(4 downto 0);
+        rt_out          : out    vl_logic_vector(4 downto 0);
+        rd_out          : out    vl_logic_vector(4 downto 0);
+        RegDst_in       : in     vl_logic;
+        ALUSrc_in       : in     vl_logic;
+        MemtoReg_in     : in     vl_logic;
+        RegWrite_in     : in     vl_logic;
+        MemRead_in      : in     vl_logic;
+        MemWrite_in     : in     vl_logic;
+        Branch_in       : in     vl_logic;
+        BneDst_in       : in     vl_logic;
+        ALUOp_in        : in     vl_logic_vector(1 downto 0);
+        funct_in        : in     vl_logic_vector(5 downto 0);
+        RegDst_out      : out    vl_logic;
+        ALUSrc_out      : out    vl_logic;
+        MemtoReg_out    : out    vl_logic;
+        RegWrite_out    : out    vl_logic;
+        MemRead_out     : out    vl_logic;
+        MemWrite_out    : out    vl_logic;
+        Branch_out      : out    vl_logic;
+        BneDst_out      : out    vl_logic;
+        ALUOp_out       : out    vl_logic_vector(1 downto 0);
+        funct_out       : out    vl_logic_vector(5 downto 0);
+        Jump_in         : in     vl_logic;
+        Jump_out        : out    vl_logic;
+        jmpaddr_in      : in     vl_logic_vector(31 downto 0);
+        jmpaddr_out     : out    vl_logic_vector(31 downto 0);
+        shamt_32bits_in : in     vl_logic_vector(31 downto 0);
+        shamt_32bits_out: out    vl_logic_vector(31 downto 0)
+    );
+end id_ex;

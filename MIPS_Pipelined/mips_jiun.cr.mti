@@ -1,0 +1,148 @@
+C:/projects/mips_jiun/control_single.v {1 {vlog -work work C:/projects/mips_jiun/control_single.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module control_single
+
+Top level modules:
+	control_single
+
+} {} {}} C:/projects/mips_jiun/mips_single.v {1 {vlog -work work C:/projects/mips_jiun/mips_single.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module mips_single
+
+Top level modules:
+	mips_single
+
+} {} {}} C:/projects/mips_jiun/alu.v {1 {vlog -work work C:/projects/mips_jiun/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/projects/mips_jiun/reg32.v {1 {vlog -work work C:/projects/mips_jiun/reg32.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module reg32
+
+Top level modules:
+	reg32
+
+} {} {}} C:/projects/mips_jiun/ex_mem.v {1 {vlog -work work C:/projects/mips_jiun/ex_mem.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module ex_mem
+
+Top level modules:
+	ex_mem
+
+} {} {}} C:/projects/mips_jiun/FullAdder.v {1 {vlog -work work C:/projects/mips_jiun/FullAdder.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+
+} {} {}} C:/projects/mips_jiun/if_id.v {1 {vlog -work work C:/projects/mips_jiun/if_id.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module if_id
+
+Top level modules:
+	if_id
+
+} {} {}} C:/projects/mips_jiun/mux2.v {1 {vlog -work work C:/projects/mips_jiun/mux2.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/projects/mips_jiun/reg_file.v {1 {vlog -work work C:/projects/mips_jiun/reg_file.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/projects/mips_jiun/add32.v {1 {vlog -work work C:/projects/mips_jiun/add32.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} C:/projects/mips_jiun/Mux5.v {1 {vlog -work work C:/projects/mips_jiun/Mux5.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module Mux5
+
+Top level modules:
+	Mux5
+
+} {} {}} {C:/projects/mips_jiun/sign extend.v} {1 {vlog -work work {C:/projects/mips_jiun/sign extend.v}
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} C:/projects/mips_jiun/memory.v {1 {vlog -work work C:/projects/mips_jiun/memory.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/projects/mips_jiun/ALUbit.v {1 {vlog -work work C:/projects/mips_jiun/ALUbit.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module ALUbit
+
+Top level modules:
+	ALUbit
+
+} {} {}} C:/projects/mips_jiun/alu_ctl.v {1 {vlog -work work C:/projects/mips_jiun/alu_ctl.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module alu_ctl
+
+Top level modules:
+	alu_ctl
+
+} {} {}} C:/projects/mips_jiun/HiLo.v {1 {vlog -work work C:/projects/mips_jiun/HiLo.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module HiLo
+
+Top level modules:
+	HiLo
+
+} {} {}} C:/projects/mips_jiun/Shifter.v {1 {vlog -work work C:/projects/mips_jiun/Shifter.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} C:/projects/mips_jiun/tb_SingleCycle.v {1 {vlog -work work C:/projects/mips_jiun/tb_SingleCycle.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module tb_SingleCycle
+
+Top level modules:
+	tb_SingleCycle
+
+} {} {}} C:/projects/mips_jiun/Multiplier.v {1 {vlog -work work C:/projects/mips_jiun/Multiplier.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module Multiplier
+
+Top level modules:
+	Multiplier
+
+} {} {}} C:/projects/mips_jiun/mem_wb.v {1 {vlog -work work C:/projects/mips_jiun/mem_wb.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module mem_wb
+
+Top level modules:
+	mem_wb
+
+} {} {}} C:/projects/mips_jiun/id_ex.v {1 {vlog -work work C:/projects/mips_jiun/id_ex.v
+Model Technology ModelSim PE Student Edition vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module id_ex
+
+Top level modules:
+	id_ex
+
+} {} {}}

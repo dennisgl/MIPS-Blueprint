@@ -1,0 +1,410 @@
+m255
+K3
+cModel Technology
+Z0 dC:\Modeltech_5.7d\examples
+vadd32
+Z1 !s100 UMIAd>_0zgmoiX]MJ?`I91
+Z2 I9D_kH2mIMjg]8?bj9N2>[0
+Z3 VU=ZXz5UM7[GT`X^NWc0cQ1
+Z4 dC:\projects\mips_jiun
+Z5 w1323725068
+Z6 8C:/projects/mips_jiun/add32.v
+Z7 FC:/projects/mips_jiun/add32.v
+L0 5
+Z8 OP;L;10.1c;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/add32.v|
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+Z11 !s108 1357484976.649000
+Z12 !s107 C:/projects/mips_jiun/add32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+Z13 !s100 MWj^c6hSDaIdCVGoZFc0S2
+Z14 IKLF:]]gDZgUdk>FM3F`Mf0
+Z15 Vn8S>>;NkbCm=3mn]K<;ek2
+R4
+Z16 w1324198196
+Z17 8C:/projects/mips_jiun/alu.v
+Z18 FC:/projects/mips_jiun/alu.v
+L0 3
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/alu.v|
+R10
+Z20 !s108 1357484976.696000
+Z21 !s107 C:/projects/mips_jiun/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu_ctl
+Z22 !s100 _8Uf@ZzCP[zCmR<Ri=g:z2
+Z23 IToL>X19ROiYK_^03EXH=h2
+Z24 V^CKUGzH`Yo`7MSICN:4D91
+R4
+Z25 w1357483060
+Z26 8C:/projects/mips_jiun/alu_ctl.v
+Z27 FC:/projects/mips_jiun/alu_ctl.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/alu_ctl.v|
+R10
+Z29 !s108 1357484976.758000
+Z30 !s107 C:/projects/mips_jiun/alu_ctl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUbit
+Z31 !s100 Z;XZRVOLZJo:_GSQNzh5M0
+Z32 Ik@^Hj4hG0haB3ZjgeaW^K2
+Z33 VPWz5`<Ol`Qz`Z<]J;G2K`3
+R4
+Z34 w1324198202
+Z35 8C:/projects/mips_jiun/ALUbit.v
+Z36 FC:/projects/mips_jiun/ALUbit.v
+L0 2
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/ALUbit.v|
+R10
+Z38 n@a@l@ubit
+Z39 !s108 1357484976.805000
+Z40 !s107 C:/projects/mips_jiun/ALUbit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol_single
+Z41 !s100 k8MaD^ITlSaB`bGlK3CP?3
+Z42 I0MCYdW:djJ8>=WRUfdSzV2
+Z43 VomQo`XP9_d64Aj`TX4FBI1
+R4
+Z44 w1357483007
+Z45 8C:/projects/mips_jiun/control_single.v
+Z46 FC:/projects/mips_jiun/control_single.v
+L0 1
+R8
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/control_single.v|
+R10
+Z48 !s108 1357484976.852000
+Z49 !s107 C:/projects/mips_jiun/control_single.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vex_mem
+Z50 !s100 GkFlX54>mES]H2U6YK67U0
+Z51 I?Pk0KjmUY4Umh109L]5WD0
+Z52 VC>X^ijzJ=``PToHGH4I2[0
+R4
+Z53 w1356472356
+Z54 8C:/projects/mips_jiun/ex_mem.v
+Z55 FC:/projects/mips_jiun/ex_mem.v
+L0 1
+R8
+r1
+31
+Z56 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/ex_mem.v|
+R10
+Z57 !s108 1357484976.899000
+Z58 !s107 C:/projects/mips_jiun/ex_mem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFullAdder
+Z59 !s100 4UOnoe<OEKADQX>83VPne0
+Z60 I1Dk:B0nnCLfo_oZbA@QfZ1
+Z61 VcII[::[2R5ZmPZ9a@hG292
+R4
+Z62 w1324198230
+Z63 8C:/projects/mips_jiun/FullAdder.v
+Z64 FC:/projects/mips_jiun/FullAdder.v
+L0 2
+R8
+r1
+31
+Z65 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/FullAdder.v|
+R10
+Z66 n@full@adder
+Z67 !s108 1357484976.946000
+Z68 !s107 C:/projects/mips_jiun/FullAdder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHiLo
+Z69 !s100 UJB>T86d1VccM`[Tz?Yn^0
+Z70 IESdR1zOP?Vhm9J;A_ES4b0
+Z71 VNN`3R^jRN]3zFgW:6KLKn2
+R4
+Z72 w1356471330
+Z73 8C:/projects/mips_jiun/HiLo.v
+Z74 FC:/projects/mips_jiun/HiLo.v
+L0 1
+R8
+r1
+31
+Z75 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/HiLo.v|
+R10
+Z76 n@hi@lo
+Z77 !s108 1357484976.993000
+Z78 !s107 C:/projects/mips_jiun/HiLo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vid_ex
+Z79 !s100 O<09^0X_=Mg`fKdG]CZe[1
+Z80 I`7F_HcjBde2W6RXJDg:FE0
+Z81 V==e1C1^J6lTcXmneOWO5o0
+R4
+Z82 w1324827944
+Z83 8C:/projects/mips_jiun/id_ex.v
+Z84 FC:/projects/mips_jiun/id_ex.v
+L0 1
+R8
+r1
+31
+Z85 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/id_ex.v|
+R10
+Z86 !s108 1357484977.024000
+Z87 !s107 C:/projects/mips_jiun/id_ex.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vif_id
+Z88 !s100 JzkUeDzJGVhdD<G8=k]U@1
+Z89 IPDziJ6;0D6XncOA=[X@i21
+Z90 VcJ6RTBj3o8eagV<4Holi91
+R4
+Z91 w1324766812
+Z92 8C:/projects/mips_jiun/if_id.v
+Z93 FC:/projects/mips_jiun/if_id.v
+L0 1
+R8
+r1
+31
+Z94 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/if_id.v|
+R10
+Z95 !s108 1357484977.071000
+Z96 !s107 C:/projects/mips_jiun/if_id.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmem_wb
+Z97 !s100 B9HXzC_3cBJM`<8NAf]iC2
+Z98 IBon1d@m2kdH?WDgBU9lLO1
+Z99 V;WiYc1ekh5W76FmLBLU860
+R4
+Z100 w1324827808
+Z101 8C:/projects/mips_jiun/mem_wb.v
+Z102 FC:/projects/mips_jiun/mem_wb.v
+L0 1
+R8
+r1
+31
+Z103 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/mem_wb.v|
+R10
+Z104 !s108 1357484977.118000
+Z105 !s107 C:/projects/mips_jiun/mem_wb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmemory
+Z106 !s100 EKb8^]9Z7]k@M`Rf67oiL1
+Z107 IFXoUM?E`F?;91TJX8a1lf3
+Z108 VSPBB>2d4PV07m82El[]@^0
+R4
+Z109 w1356471114
+Z110 8C:/projects/mips_jiun/memory.v
+Z111 FC:/projects/mips_jiun/memory.v
+L0 14
+R8
+r1
+31
+Z112 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/memory.v|
+R10
+Z113 !s108 1357484977.165000
+Z114 !s107 C:/projects/mips_jiun/memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips_single
+Z115 !s100 fZHn@mij>o_5IWE1I^XWm3
+Z116 Ilzg]@CaWc>>[NzWOM>CkU1
+Z117 VgzdPULOV?4TESNV;3BbS?2
+R4
+Z118 w1357482630
+Z119 8C:/projects/mips_jiun/mips_single.v
+Z120 FC:/projects/mips_jiun/mips_single.v
+L0 3
+R8
+r1
+31
+Z121 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/mips_single.v|
+R10
+Z122 !s108 1357484977.196000
+Z123 !s107 C:/projects/mips_jiun/mips_single.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplier
+Z124 !s100 =H06>Qdd86VNjcnDO^_T?2
+Z125 Ih_@NKLN@joKL`]8BBCS>l3
+Z126 V@23QljJB@GDHW?d42BXSO1
+R4
+Z127 w1356472964
+Z128 8C:/projects/mips_jiun/Multiplier.v
+Z129 FC:/projects/mips_jiun/Multiplier.v
+L0 1
+R8
+r1
+31
+Z130 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/Multiplier.v|
+R10
+Z131 n@multiplier
+Z132 !s108 1357484977.258000
+Z133 !s107 C:/projects/mips_jiun/Multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2
+Z134 !s100 ma<G^<FWBgB_WfQc8[Ucj3
+Z135 I[=m@Mja<JY:VYnDZQZA2Q1
+Z136 Vj@f`a>EYID42B4HRj1CP`1
+R4
+Z137 w1323725038
+Z138 8C:/projects/mips_jiun/mux2.v
+Z139 FC:/projects/mips_jiun/mux2.v
+L0 5
+R8
+r1
+31
+Z140 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/mux2.v|
+R10
+Z141 !s108 1357484977.305000
+Z142 !s107 C:/projects/mips_jiun/mux2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux5
+Z143 !s100 aI78czYiK_GMz;Jbk^o862
+Z144 I<bD8HRHU;iS0AJ@BJANIc0
+Z145 VYKgz[L8ja7OfnS=<;A?:10
+R4
+Z146 w1324198208
+Z147 8C:/projects/mips_jiun/Mux5.v
+Z148 FC:/projects/mips_jiun/Mux5.v
+L0 2
+R8
+r1
+31
+Z149 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/Mux5.v|
+R10
+Z150 n@mux5
+Z151 !s108 1357484977.352000
+Z152 !s107 C:/projects/mips_jiun/Mux5.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreg32
+Z153 !s100 mMGR@ffIO:UTN@ZNEzM=W1
+Z154 IUWK8<c82`=mX85GRIJHz;0
+Z155 V4bcQWEI[Z8fXRzc;L8:=h0
+R4
+Z156 w1323786478
+Z157 8C:/projects/mips_jiun/reg32.v
+Z158 FC:/projects/mips_jiun/reg32.v
+L0 13
+R8
+r1
+31
+Z159 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/reg32.v|
+R10
+Z160 !s108 1357484977.399000
+Z161 !s107 C:/projects/mips_jiun/reg32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreg_file
+Z162 !s100 YD6K[cd`M<zV>;=5of[eE3
+Z163 IVG@0>FZTUGblLNc>G65K51
+Z164 VYLAOAi5U8OG?Ke_4jenLM0
+R4
+Z165 w1356472380
+Z166 8C:/projects/mips_jiun/reg_file.v
+Z167 FC:/projects/mips_jiun/reg_file.v
+L0 2
+R8
+r1
+31
+Z168 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/reg_file.v|
+R10
+Z169 !s108 1357484977.446000
+Z170 !s107 C:/projects/mips_jiun/reg_file.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShifter
+Z171 !s100 z3[Iaa5QhP7hDo8UhQez53
+Z172 IcKjA`<9mK84iMb_oEHVgP3
+Z173 VSAE=i;`m;3@:8nhQ7D[YX0
+R4
+Z174 w1356470332
+Z175 8C:/projects/mips_jiun/Shifter.v
+Z176 FC:/projects/mips_jiun/Shifter.v
+L0 4
+R8
+r1
+31
+Z177 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/Shifter.v|
+R10
+Z178 n@shifter
+!i10b 1
+!s85 0
+Z179 !s108 1357484977.477000
+Z180 !s107 C:/projects/mips_jiun/Shifter.v|
+!s101 -O0
+vsign_extend
+!i10b 1
+Z181 !s100 8?6:aA[i4f@?jZO]z^M2j0
+Z182 IV6TSJNGdUKKPo<Rm0Udbe1
+Z183 VWL>SGQ[dSaENEoQa]gCBG2
+R4
+Z184 w1324736260
+Z185 8C:/projects/mips_jiun/sign extend.v
+Z186 FC:/projects/mips_jiun/sign extend.v
+L0 10
+R8
+r1
+!s85 0
+31
+!s108 1357484977.540000
+!s107 C:/projects/mips_jiun/sign extend.v|
+Z187 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/sign extend.v|
+!s101 -O0
+R10
+vtb_SingleCycle
+Z188 IRemRoe>6feR<`;e;i6;RC2
+Z189 V?^jDZQg<T7eMH8E80iM6b1
+R4
+Z190 w1357484934
+Z191 8C:/projects/mips_jiun/tb_SingleCycle.v
+Z192 FC:/projects/mips_jiun/tb_SingleCycle.v
+L0 1
+R8
+r1
+31
+Z193 !s90 -reportprogress|300|-work|work|C:/projects/mips_jiun/tb_SingleCycle.v|
+R10
+Z194 ntb_@single@cycle
+Z195 !s100 >5gOEo7gESnUjPMBY0_OY0
+Z196 !s108 1357484976.602000
+Z197 !s107 C:/projects/mips_jiun/tb_SingleCycle.v|
+!i10b 1
+!s85 0
+!s101 -O0
